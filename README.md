@@ -72,18 +72,18 @@ Create Azure red-teaming lab
 Create AWS red-teaming lab  
 Create Google red-teaming lab  
 
-# Kaizen Playbook
+# Kaizen Trading Capital Playbook
 
-## Largecaps
+## Largecaps (NYSE/NASDAQ)
 
 ### Longs
 
 
 
-### Shorts
+### Shorts 
 
 
-## Smallcaps
+## Smallcaps (NASDAQ)
 
 ### Longs
 
