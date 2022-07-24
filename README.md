@@ -45,6 +45,8 @@ Notes Annotation
 5 Hour Rule  
 Atomic Habits / The Power of Habit
 
+# Project Management / Templates
+
 ## Habit Hacks & Choice Architecture
 Ikigai  
 Systems Thinking
